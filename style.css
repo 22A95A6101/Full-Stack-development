@@ -1,0 +1,19 @@
+menu{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 5%;
+}
+menu ul {
+	list-style: none;
+	display: flex;
+}
+menu ul li{
+	padding: :10px 30px;
+
+}
+menu ul li a{
+	color: var(--color-white);
+	text-decoration: none;
+	font-size: 30px;
+}
