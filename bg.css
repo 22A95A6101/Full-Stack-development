@@ -1,0 +1,13 @@
+div{
+	background-image: url('bg3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:700px;
+	width:100%;
+}
+h1{
+	font-size: 50px;
+	color: whitesmoke;
+	text-align: center;
+	margin-top: 40px;
+}
