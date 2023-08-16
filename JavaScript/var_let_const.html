@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>variables</title>
+</head>
+<body>
+	<h1>var,let and const</h1>
+
+	<script>
+		//var is globally in or outside the function we can access
+		var a=10;
+		document.write(a+"<br>");
+		//let is to overcome issues of issues of global scope variables
+		let b =20;
+		document.write(b+"<br>");
+		//let b =30; //error -->redeclaration is not possible
+		b = 30;// reintialisize is possilble
+		document.write(b+"<br>");
+		//
+		{
+			var s =8;
+
+		}
+		document.write(s+"<br>");//not possible bcozz of c is blockscope variable
+		const pinnumber = 80749581;
+		document.write(pinnumber);
+
+	</script>
+
+
+</body>
+</html>
