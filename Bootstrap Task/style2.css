@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-facebook
+{
+    background-color: #405D9D;
+}
+.btn-twitter
+{
+    background-color: #42AEEC;
+}
+.btn-facebook:hover
+{
+    background-color: #314879;
+}
+.btn-twitter:hover
+{
+    background-color: #1799e4;
+}
+.aa{
+    margin-left: 100px;
+    margin-top: 30px;
+    
+}
+.hh{
+    margin-left: 200px;
+    float: left;
+}
+.tt{
+    color: blue;
+}
+img{
+    height: 405px;
+    width: 530px;
+}
