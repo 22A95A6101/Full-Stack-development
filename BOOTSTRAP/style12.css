@@ -1,0 +1,62 @@
+.b{
+	height: 50px;
+	width: 1350px;
+	background-color: white;
+
+
+}
+.pan1{
+	color: white;
+	background-color: skyblue;
+	border: 3px solid skyblue;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius:5px ;
+	border-bottom-left-radius:5px ;
+	margin-top: 8px;
+	padding: 3px;
+	width: 70px;
+
+}
+.pan2{
+	color: white;
+	background-color: skyblue;
+	border: 3px solid skyblue;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius:5px ;
+	border-bottom-left-radius:5px ;
+	margin-top: 8px;
+	padding: 3px;
+	width: 100px;
+
+}
+.pan3{
+
+	color: white;
+	background-color: indianred;
+	border: 3px solid indianred;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius:5px ;
+	border-bottom-left-radius:5px ;
+	margin-top: 8px;
+	padding: 3px;
+	width: 100px;
+
+}.pan{
+	color: white;
+	background-color: green;
+	border: 3px solid green;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius:5px ;
+	border-bottom-left-radius:5px ;
+	margin-left: 450px;
+	margin-top: 8px;
+	padding: 3px;
+
+}
+.ad{
+	margin-left: 80px;
+}
